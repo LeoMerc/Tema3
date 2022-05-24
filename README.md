@@ -47,10 +47,12 @@ Div.s <br>
 
 Hanoi.s <br>
 ![image](https://user-images.githubusercontent.com/81432796/169950712-2934b0d1-4a34-4578-b094-8fbc7fcb390c.png)
+<br>
 ![image](https://user-images.githubusercontent.com/81432796/169950945-66df6a8b-1104-4530-8371-ffe9347f1508.png)
 
 Sum2.s <br>
 ![image](https://user-images.githubusercontent.com/81432796/169950841-ec2361a2-3c77-44a0-ac52-bf6ac742c357.png)
+<br>
 ![image](https://user-images.githubusercontent.com/81432796/169950909-b7d44dfa-c832-4aed-942d-c48ea92ed70d.png)
 
 Stack.s <br>
@@ -58,10 +60,12 @@ Stack.s <br>
 
 Scanf.s <br>
 ![image](https://user-images.githubusercontent.com/81432796/169949524-2f2f3457-f327-4054-aa2d-ed4ada1cadd7.png)
+<br>
 ![image](https://user-images.githubusercontent.com/81432796/169950997-bee2051d-f79e-4cd5-991d-f88878e29e78.png)
 
 Sum3.s <br>
 ![image](https://user-images.githubusercontent.com/81432796/169949924-22b533f6-7cbd-42c6-84dd-ee5da979f986.png)
+<br>
 ![image](https://user-images.githubusercontent.com/81432796/169951022-370d08fd-770e-4c5b-827a-4ac56dcd5d80.png)
 
 Primero.s <br>
