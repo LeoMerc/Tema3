@@ -29,7 +29,7 @@ Leonardo Mercado Celis
 </pre>
 
 Makefile utilizado:
-```
+```bash
 compile:
         echo "Compiling... $(file)"
         as -o $(file).o $(file).s
